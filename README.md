@@ -18,7 +18,10 @@ This documentation provides details about the routes and endpoints exposed by th
   - [Proxy to Flight Service](#proxy-to-flight-service)
 
 - [Other Routes](#other-routes)
+
   - [Home](#home)
+
+- [Other Services](#other-services)
 
 ---
 
@@ -95,6 +98,15 @@ Returns a simple "ok" message.
   "message": "ok"
 }
 ```
+
+---
+
+## Other Services
+
+- [Reminder service Endpoint](https://github.com/mayankdutta/reminderService)
+- [Booking service Endpoint](https://github.com/mayankdutta/bookingService)
+- [Auth service Endpoint](https://github.com/mayankdutta/authServices)
+- [Flights and Search services](https://github.com/mayankdutta/FlightsAndSearchService)
 
 ---
 
